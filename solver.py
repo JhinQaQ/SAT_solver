@@ -56,7 +56,7 @@ def main(filename):
 if __name__ == "__main__":
     import sys
     if len(sys.argv) != 2:
-        print("Usage: python sat_solver.py <filename>")
+        print("Usage: python solver.py <filename>")
     else:
         main(sys.argv[1])
     print('----------------------------------------------------')
