@@ -2,6 +2,8 @@
 Teamwork for CIS700
 
 ## Usage
+
+Note: The basic solver.py used brute force, it might cost a loooots of time to run a complex example with huge variables.
 If u want to try all the test cases, just run 
 ```shell
 python runAll.py solver.py [optional_directory_path]
